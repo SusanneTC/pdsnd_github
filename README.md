@@ -16,3 +16,8 @@ bikeshare.py, chicago.csv, new_york_city.csv, washington.csv
 stackoverflow
 
 Adding a change for Section III
+
+
+
+#Adding Line for Section IV Refactoring
+
